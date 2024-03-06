@@ -1,6 +1,6 @@
 -  Hi, I’m @0Thomas1
 -  I’m interested in ...
--  I’m currently learning React, C
+-  I’m currently learning React, node.js 
 -  learnt languages/Markup:
 -    Python
 -    Java
